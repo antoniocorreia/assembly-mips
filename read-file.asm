@@ -1,5 +1,5 @@
 .data  
-fin: .asciiz "file.txt"      # filename for input
+fin: .asciiz "string.in"      # filename for input
 buffer: .space 1024
 message: .asciiz "Hello,"
 
